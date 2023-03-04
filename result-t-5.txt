@@ -1,1 +1,0 @@
-Test failed. Actual result: Пешком Бесплатно В пути 71 мин.

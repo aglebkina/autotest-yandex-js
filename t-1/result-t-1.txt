@@ -1,0 +1,1 @@
+Test failed. Actual result: Авто ~ 54 руб. В пути 4 мин.
